@@ -1,32 +1,66 @@
 {
  "62 of 97 Survived the Hindenburg. Where You Stood Decided Who Lived.": {
-  "file": "reels/short1_where_you_stood.mp4",
   "caption": "62 of 97 Survived the Hindenburg. Where You Stood Decided Who Lived.\n\nNinety-seven people were on the Hindenburg when it burned. Sixty-two survived. The difference was where they happened to be standing.\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary #reels",
-  "added": "2026-10-28 02:22:53"
+  "added": "2026-10-28 02:22:53",
+  "file": "reels/short1_where_you_stood.mp4"
  },
  "She Threw Her Sons Out of the Hindenburg Window. Then She Jumped.": {
-  "file": "reels/short2_the_window.mp4",
   "caption": "She Threw Her Sons Out of the Hindenburg Window. Then She Jumped.\n\nWhen the Hindenburg sank toward the ground, Matilde Doehner threw her two young sons out of the dining-room window, then jumped after them. All three lived.\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary #reels",
-  "added": "2026-10-28 02:22:53"
+  "added": "2026-10-28 02:22:53",
+  "file": "reels/short2_the_window.mp4"
  },
  "57 Died at Mount St. Helens. Only 3 Were Inside the Danger Zone": {
-  "file": "reels/short1_danger_zone.mp4",
   "caption": "57 Died at Mount St. Helens. Only 3 Were Inside the Danger Zone\n\n57 people died when Mount St. Helens erupted in 1980. Only 3 of them were inside the official danger zone.\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary #reels",
-  "added": "2026-10-28 02:22:53"
+  "added": "2026-10-28 02:22:53",
+  "file": "reels/short1_danger_zone.mp4"
  },
  "His Last Radio Call: \"Vancouver! Vancouver! This Is It!\"": {
-  "file": "reels/short2_johnston.mp4",
   "caption": "His Last Radio Call: \"Vancouver! Vancouver! This Is It!\"\n\nDavid Johnston was the volcanologist watching Mount St. Helens. His last words on the radio were \"Vancouver! Vancouver! This is it!\"\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary #reels",
-  "added": "2026-10-28 02:22:53"
+  "added": "2026-10-28 02:22:53",
+  "file": "reels/short2_johnston.mp4"
  },
  "80,000 People. Fewer Than 10 Died. A 100-Year-Old Story Saved Them.": {
-  "file": "reels/short1_smong.mp4",
   "caption": "80,000 People. Fewer Than 10 Died. A 100-Year-Old Story Saved Them.\n\nWhen the 2004 tsunami hit Simeulue, an island right next to the epicentre, almost everyone ran to the hills. They had learned why from a story called smong, told to children since a tsunami in 1907.\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary #reels",
-  "added": "2026-10-29 20:42:14"
+  "added": "2026-10-29 20:42:14",
+  "file": "reels/short1_smong.mp4"
  },
  "A 10-Year-Old Saw the Sea Pull Back and Knew a Tsunami Was Coming": {
-  "file": "reels/short2_tilly.mp4",
   "caption": "A 10-Year-Old Saw the Sea Pull Back and Knew a Tsunami Was Coming\n\nOn Mai Khao beach in Phuket, 10-year-old Tilly Smith recognised the warning signs from a geography lesson two weeks earlier. Her parents warned the beach and the hotel staff. No one on that beach was killed.\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary #reels",
-  "added": "2026-10-29 20:42:14"
+  "added": "2026-10-29 20:42:14",
+  "file": "reels/short2_tilly.mp4"
+ },
+ "Scientists in Hawaii Knew About the 2004 Earthquake in Minutes. Why Couldn't They Warn Anyone?": {
+  "caption": "Scientists in Hawaii Knew About the 2004 Earthquake in Minutes. Why Couldn't They Warn Anyone?\n\nAbout eight minutes after the earthquake off Sumatra, an alarm went off at the Pacific Tsunami Warning Center. But in 2004 the Indian Ocean had no tsunami warning system and no deep-ocean sensors, and the countries in the wave's path weren't on the Pacific list.\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary #reels",
+  "added": "2026-10-29 22:39:07",
+  "file": "reels/clip3_hawaii.mp4",
+  "ig_only": true,
+  "slug": "clip3_hawaii",
+  "after": "2026-11-04"
+ },
+ "Would You Know a Tsunami Was Coming?": {
+  "caption": "Would You Know a Tsunami Was Coming?\n\nOut at sea, a tsunami can be less than a metre high and still move as fast as a jet. In 2004, two warning signs saved lives: the ground shaking hard, and the sea pulling back. Swipe through, then tell us: did anyone ever teach you these signs?\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary",
+  "added": "2026-10-29 22:39:07",
+  "kind": "carousel",
+  "files": [
+   "carousels/carousel1_signs/01.jpg",
+   "carousels/carousel1_signs/02.jpg",
+   "carousels/carousel1_signs/03.jpg",
+   "carousels/carousel1_signs/04.jpg",
+   "carousels/carousel1_signs/05.jpg",
+   "carousels/carousel1_signs/06.jpg",
+   "carousels/carousel1_signs/07.jpg",
+   "carousels/carousel1_signs/08.jpg"
+  ],
+  "ig_only": true,
+  "slug": "carousel1_signs",
+  "after": "2026-11-05"
+ },
+ "Why Did a Whole Village Climb Onto a Train in 2004?": {
+  "caption": "Why Did a Whole Village Climb Onto a Train in 2004?\n\nThe first wave stopped the Queen of the Sea near Peraliya, Sri Lanka, and people from the village climbed onto the carriages to get above the water. Then bigger waves came. Guinness World Records lists it as the worst train disaster on record.\n\nFull documentary on YouTube: Fragile Giants 🎬\n\n#history #disaster #documentary #reels",
+  "added": "2026-10-29 22:39:07",
+  "file": "reels/clip4_train.mp4",
+  "ig_only": true,
+  "slug": "clip4_train",
+  "after": "2026-11-06"
  }
 }
